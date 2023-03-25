@@ -10,3 +10,5 @@ dependencies:
 - matplotlib
 - openpyxl
 - xlrd
+- wordcloud
+- folium

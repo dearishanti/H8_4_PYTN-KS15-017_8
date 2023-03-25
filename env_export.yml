@@ -149,3 +149,5 @@ dependencies:
   - pip:
       - pyqt5-sip==12.11.0
 prefix: /Users/dearishanti/Desktop/hacktiv/env
+  - word cloud
+  
